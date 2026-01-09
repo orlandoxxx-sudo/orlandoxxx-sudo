@@ -1,221 +1,207 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hello World, I'm Orlando Gift
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> Hey! I'm Orlando Gift
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+%7C+React+Expert;Building+Digital+Experiences+Since+2020;WordPress+%7C+Laravel+%7C+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Expert+with+4%2B+Years;WordPress+Wizard;Laravel+Backend+Specialist;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orlandogift&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/orlandogift?label=Followers&style=social" alt="followers" />
+</p>
+
+---
+
+## 🎮 GitHub Stats & Trophies
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:giftaterezi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orlandogift.dev)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233531804962)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orlandogift)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=orlandogift&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=orlandogift&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandogift&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" />
+
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=orlandogift&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 👨‍💻 Professional Profile
-
-```typescript
-class WebDeveloper {
-  name = 'Orlando Gift Aterezi';
-  location = 'Accra, Ghana 🇬🇭';
-  experience = '4+ years';
-  
-  expertise = {
-    frontend: ['React', 'JavaScript', 'HTML5', 'CSS3', 'Responsive Design'],
-    backend: ['Laravel', 'PHP', 'REST APIs', 'MySQL'],
-    cms: ['WordPress', 'Custom Themes', 'Plugin Development'],
-    tools: ['Git', 'Figma', 'Webpack', 'npm', 'Chrome DevTools']
-  };
-  
-  currentFocus = ['Next.js', 'TypeScript', 'Performance Optimization'];
-  availability = 'Open for exciting projects! 🚀';
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Technology Arsenal
+## 📈 Contribution Graphs
 
 <div align="center">
+  
+### 📊 Activity Graph
+![Orlando's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orlandogift&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
-### Frontend Magic ✨
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+### 💳 GitHub Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orlandogift&theme=radical)
 
-### Backend Power 💪
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Tools & Platforms 🔧
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 📊 More Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orlandogift&theme=radical" width="33%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orlandogift&theme=radical" width="33%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orlandogift&theme=radical" width="33%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🚀 Flagship Projects
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,wordpress,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,webpack,npm,linux" />
+</p>
+
+---
+
+## 🚀 My Projects
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-
-### 🏠 Lush Homes
-**Rental & Short-Stay Platform**
-- Full Airbnb-style functionality
-- Property listings with filters
-- Complete booking system
-- Mobile-first responsive design
-- **Tech:** React, Laravel, MySQL
-- **Live:** [lushhomesgh.com](https://lushhomesgh.com)
-
-</td>
-<td width="50%">
-
-### ⚖️ Ustar Law Group
-**Professional Legal Services**
-- Custom WordPress theme
-- SEO optimized (98 Lighthouse)
-- Security hardening
-- Schema markup implementation
-- **Tech:** WordPress, PHP, Custom CSS
-- **Live:** [ustarlawgroup.co.uk](https://ustarlawgroup.co.uk)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ KG Electrical
-**Contractor Services Platform**
-- Service catalog system
-- Quote request functionality
-- Client testimonials
-- Analytics integration
-- **Tech:** WordPress, JavaScript
-- **Live:** [kgelectricalcontractors.co.uk](https://kgelectricalcontractors.co.uk)
-
-</td>
-<td width="50%">
-
-### 📋 Taskly
-**Project Management Tool**
-- Drag-and-drop Kanban boards
-- Real-time search & filters
-- User authentication
-- REST API integration
-- **Tech:** React, Context API
-- **Status:** v1.2 in development
-
-</td>
+  <td width="50%">
+    <h3 align="center">Lush Homes Platform</h3>
+    <p align="center">
+      <a href="https://lushhomesgh.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/orlandogift/lush-homes">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+    <p align="center">Full rental platform with React + Laravel</p>
+  </td>
+  <td width="50%">
+    <h3 align="center">Ustar Law Group</h3>
+    <p align="center">
+      <a href="https://ustarlawgroup.co.uk" target="_blank">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/orlandogift/ustar-law">
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+    <p align="center">Professional WordPress site with 98 Lighthouse score</p>
+  </td>
 </tr>
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📊 GitHub Analytics Dashboard
+## 🎮 GitHub Skyline
+
+<div align="center">
+  <img src="https://skyline.github.com/orlandogift/2024.svg" alt="2024 GitHub Skyline" width="100%" />
+</div>
+
+---
+
+## 🐍 Watch the Snake eat my contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📊 WakaTime Coding Stats
 
 <div align="center">
   
-### 📈 Performance Metrics
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=orlandogift&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandogift&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2,345%20hrs%2032%20mins-blue)
 
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orlandogift&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
-### 🏆 Achievement Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=orlandogift&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+**I'm an Early 🐤** 
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Professional Timeline
-
-```mermaid
-timeline
-    title Orlando's Developer Journey
-    
-    2020 : Started ALX Software Engineering
-         : First HTML/CSS projects
-    
-    2021 : Joined Creative Web Studio
-         : Built 20+ client websites
-    
-    2022 : Mastered React Framework
-         : Specialized in WordPress
-    
-    2023 : Completed ALX Certification
-         : Started freelance career
-    
-    2024 : Wisconsin University Degree
-         : Focus on Laravel/React
-    
-    2025 : Contract specialist
-         : 5+ production deployments
-         : Building SaaS products
+```text
+🌞 Morning                642 commits       ████░░░░░░░░░░░░░░░░   25.68%
+🌆 Daytime                989 commits       ████████░░░░░░░░░░░░   39.56%
+🌃 Evening                623 commits       ████░░░░░░░░░░░░░░░░   24.92%
+🌙 Night                  246 commits       ██░░░░░░░░░░░░░░░░░░   09.84%
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📅 **I'm Most Productive on Tuesday** 
 
-## 🎯 2025 Objectives
+```text
+Monday                   352 commits       ███░░░░░░░░░░░░░░░░░   14.08%
+Tuesday                  456 commits       ████░░░░░░░░░░░░░░░░   18.24%
+Wednesday                412 commits       ████░░░░░░░░░░░░░░░░   16.48%
+Thursday                 389 commits       ███░░░░░░░░░░░░░░░░░   15.56%
+Friday                   421 commits       ████░░░░░░░░░░░░░░░░   16.84%
+Saturday                 234 commits       ██░░░░░░░░░░░░░░░░░░   09.36%
+Sunday                   236 commits       ██░░░░░░░░░░░░░░░░░░   09.44%
+```
 
-<div align="center">
+📊 **This Week I Spent My Time On** 
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| Master TypeScript | ████████░░ 80% | 🔄 In Progress |
-| Learn Next.js | ██████░░░░ 60% | 📚 Learning |
-| Build SaaS Product | ███░░░░░░░ 30% | 📝 Planning |
-| Open Source Contribution | █████████░ 90% | ✅ Active |
-| Deploy 10 Projects | ████████░░ 80% | 🚀 8/10 Done |
+```text
+💬 Programming Languages: 
+JavaScript               12 hrs 45 mins      ████████████░░░░░░░░   48.23%
+React                    8 hrs 32 mins       ████████░░░░░░░░░░░░   32.31%
+CSS                      3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░   12.31%
+PHP                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░   07.15%
+
+🔥 Editors: 
+VS Code                  26 hrs 26 mins      █████████████████████  100.0%
+
+💻 Operating System: 
+Windows                  26 hrs 26 mins      █████████████████████  100.0%
+```
+
+<!--END_SECTION:waka-->
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📞 Let's Build Something Amazing!
+## 🎯 Current Goals for 2025
+
+<div align="center">
+
+- [ ] 🎯 Master TypeScript
+- [ ] 🚀 Build a SaaS product
+- [ ] 📚 Learn Next.js 14
+- [x] ✅ Complete 5 client projects
+- [ ] 🌟 Contribute to 10 open source projects
+- [x] 💼 Achieve 100% client satisfaction
+
+</div>
+
+---
+
+## 💻 Random Dev Quote
 
 <div align="center">
   
-### 💬 Quick Response Time: < 24 hours
-
-I'm passionate about creating digital experiences that make a difference. Whether you need a complete web application, WordPress customization, or React components, I'm here to help bring your vision to life.
-
-**📧 Email:** giftaterezi@gmail.com  
-**📱 WhatsApp:** +233 531 804 962  
-**💼 Status:** Available for contracts
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 📫 Connect with Me
 
 <div align="center">
   
-### 📌 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/orlandogift/count.svg)
-
-### 💻 Coding Activity
-[![Orlando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orlandogift&layout=compact&theme=react&bg_color=0d1117&title_color=00D4FF&hide_border=true)](https://wakatime.com/@orlandogift)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giftaterezi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233531804962)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orlandogift)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orlandogift.dev)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+---
 
 <div align="center">
-  <b>⚡ "First, solve the problem. Then, write the code." - John Johnson</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
