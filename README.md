@@ -49,10 +49,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandoxxx-sudo&theme=github-compact&hide_border=true&area=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orlandoxxx-sudo&theme=radical" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orlandoxxx-sudo&theme=radical" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orlandoxxx-sudo&theme=radical" />
 </div>
 
 ## Professional Experience
