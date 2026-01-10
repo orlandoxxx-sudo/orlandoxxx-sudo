@@ -90,6 +90,6 @@ Available for contract work and collaborations. Response time < 24 hours.
 </div>
 ---
 
-<div align="center">
+<!--<div align="center">
   <sub>Built with ❤️ using React & Laravel</sub>
-</div>
+</div> -->
