@@ -23,14 +23,18 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orlandoxxx-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoxxx-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
+  
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=orlandoxxx-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orlandoxxx-sudo&theme=github-dark-blue&hide_border=true" />
-</div>
+<!-- ### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=orlandoxxx-sudo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoxxx-sudo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" />
+-->
 
+### 🔥 Streaks
+![](https://github-readme-streak-stats.herokuapp.com/?user=orlandoxxx-sudo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+
+</div>
 ## Featured Projects
 
 | Project | Description | Technologies | Link |
