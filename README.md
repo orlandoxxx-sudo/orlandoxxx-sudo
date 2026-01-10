@@ -6,7 +6,6 @@
   
 [![Email](https://img.shields.io/badge/giftaterezi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giftaterezi@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+233_531_804_962-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/233531804962)
-[![Portfolio](https://img.shields.io/badge/orlandogift.dev-000000?style=flat&logo=vercel&logoColor=white)](https://orlandogift.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orlandogift)
 
 </div>
@@ -24,12 +23,16 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orlandoxxx-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoxxx-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
+  
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=orlandoxxx-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orlandoxxx-sudo&theme=github-dark-blue&hide_border=true" />
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=orlandoxxx-sudo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoxxx-sudo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" />
+
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=orlandoxxx-sudo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+
 </div>
 
 ## Featured Projects
@@ -45,7 +48,13 @@
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandoxxx-sudo&theme=github-compact&hide_border=true&area=true" />
+  ![Orlando's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orlandoxxx-sudo&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orlandoxxx-sudo&theme=radical)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orlandoxxx-sudo&theme=radical" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orlandoxxx-sudo&theme=radical" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orlandoxxx-sudo&theme=radical" />
 </div>
 
 ## Professional Experience
@@ -68,6 +77,19 @@
 
 Available for contract work and collaborations. Response time < 24 hours.
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 ---
 
 <div align="center">
