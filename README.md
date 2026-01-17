@@ -1,11 +1,11 @@
 # Orlando Gift Aterezi
 
-**Full-Stack Web Developer | React & Laravel Specialist**
+**Full-Stack Web Developer | React & Laravel **
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/giftaterezi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giftaterezi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+233_531_804_962-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/233531804962)
+[![WhatsApp](https://img.shields.io/badge/+233_531_804_962-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2335593772)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orlandogift)
 
 </div>
