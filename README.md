@@ -1,4 +1,4 @@
-# Orlando Gift Aterezi
+# GIFT OGHENELUGBA ATEREZI
 
 **Full-Stack Web Developer | React & Laravel **
 
